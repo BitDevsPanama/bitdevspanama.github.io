@@ -1,0 +1,37 @@
+---
+layout: default
+title: Home
+---
+
+<div class="Home">
+  <p class="Home-about">
+    BitDevs Panamá is a community for those interested in discussing and
+    participating in the research and development of Bitcoin and related
+    protocols. Free to attend, sponsor-supported, and always technical.
+    Se habla español e inglés.
+  </p>
+
+  <div class="Home-posts">
+    <h2 class="Home-posts-title">Upcoming and Recent Events in Panama City:</h2>
+    {% assign event_posts = 7 %}
+    {% assign counter = 0 %}
+    {% for post in site.posts %}
+      {% if post.type == "socratic" %}
+        <div class="Home-posts-post">
+          <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
+          <span class="Home-posts-post-arrow">&raquo;</span>
+          <a class="Home-posts-post-title" href="{{ post.url }}">{{ post.title }}</a>
+        </div>
+        {% assign counter = counter | plus: 1 %}
+        {% if counter == event_posts %}
+          {% break %} {% comment %}exit the for loop{% endcomment %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    {% if counter == 0 %}
+      <p>The first Socratic Seminar is being scheduled. Get in touch to hear about it.</p>
+    {% else %}
+      <p><a href="/events.html">See all events</a></p>
+    {% endif %}
+  </div>
+</div>
