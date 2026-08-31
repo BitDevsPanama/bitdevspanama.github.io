@@ -1,7 +1,7 @@
 <header class="Header">
   <div class="Header-inner">
     <div class="Header-logo">
-      <a href="{{ site.github.url }}/">{{ site.data.settings.title }}</a>
+      <a href="/">{{ site.data.settings.title }}</a>
     </div>
     <nav class="Header-nav">
       {% for item in site.data.settings.menu %}
@@ -13,7 +13,7 @@
               {% if sub.external %}
               <a href="{{ sub.url }}" target="_blank" rel="noopener nofollow">{{ sub.name }}</a>
               {% else %}
-              <a href="{{ site.github.url }}{{ sub.url }}">{{ sub.name }}</a>
+              <a href="{{ sub.url }}">{{ sub.name }}</a>
               {% endif %}
             {% endfor %}
           </div>
@@ -23,7 +23,7 @@
             {{ item.name }}
         </a>
         {% else %}
-          <a href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a>
+          <a href="{{ item.url }}">{{ item.name }}</a>
         {% endif %}
       {% endfor %}
     </nav>
