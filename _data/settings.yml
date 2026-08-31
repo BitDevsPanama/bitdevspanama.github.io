@@ -4,4 +4,4 @@ tagline: 'BitDevs Panamá is a community for those interested in discussing and 
 menu:
   - {name: 'About', url: '/about'}
   - {name: 'Events', url: '/events'}
-  - {name: 'BitDevs.org', url: 'https://bitdevs.org', external: true}
+  - {name: 'Cities', url: 'https://bitdevs.org/cities', external: true}
