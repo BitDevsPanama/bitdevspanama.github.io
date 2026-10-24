@@ -18,7 +18,7 @@ sharing and lively discussion. In the weeks preceding the event, discussion
 topics are collated from a variety of sources: pull requests in popular git
 repositories (e.g. Bitcoin Core, LDK, LND, Core Lightning, BDK), research
 papers, technical blog posts, IRC logs, network monitors and more. A moderator
-walks the list and anyone can interrupt with a question — the questions are the
+walks the list and anyone can interrupt with a question. The questions are the
 point.
 
 The discussion portion of the event is **never recorded**, and we run under the

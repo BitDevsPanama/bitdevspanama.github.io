@@ -12,7 +12,7 @@ food, refreshments and event space.
 
 Doors open at TODO for socializing, discussion starts around TODO.
 
-Afterwards we head to TODO for coffee and beers — come for that even if you
+Afterwards we head to TODO for coffee and beers. Come for that even if you
 can't make the main event.
 
 Reminder: the discussion is never recorded, and we run under the Chatham House

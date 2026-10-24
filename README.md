@@ -1,6 +1,6 @@
 # BitDevs Panamá
 
-Site for [BitDevs Panamá](https://bitdevs.org/cities) — a monthly Socratic
+Site for [BitDevs Panamá](https://bitdevs.org/cities), a monthly Socratic
 Seminar for Bitcoin developers in Panama City.
 
 Forked from [BitDevsNYC/BitDevsNYC.github.io](https://github.com/BitDevsNYC/BitDevsNYC.github.io),
