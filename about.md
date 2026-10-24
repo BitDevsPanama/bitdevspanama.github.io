@@ -36,8 +36,7 @@ English, but you should feel free to ask questions in either.
 ### Get in touch
 
 Want to present, suggest a topic, sponsor an event, or just hear when the next
-one is? Email <hello@bitdevspanama.org>. Our bitdevspanama@gmail.com account
-is under appeal right now, so use the address above in the meantime.
+one is? Email <hello@bitdevspanama.org> or <bitdevspanama@gmail.com>.
 
 Topics for an upcoming seminar can also be sent as a pull request against the
 event page in [the site repo](https://github.com/BitDevsPanama/bitdevspanama.github.io).
