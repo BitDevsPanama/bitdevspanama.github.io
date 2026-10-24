@@ -10,7 +10,7 @@ permalink: /panama-socratic-001
 Please join us for the first BitDevs Panamá Socratic Seminar. Date, venue and
 time are still being confirmed — check back, or get in touch to hear first.
 
-Broadcast your topic proposals to our local node: <bitdevspanama@gmail.com>
+Broadcast your topic proposals to our local node: <hello@bitdevspanama.org>
 
 Afterwards we head out for coffee and beers — come for that even if you can't
 make the main event.
