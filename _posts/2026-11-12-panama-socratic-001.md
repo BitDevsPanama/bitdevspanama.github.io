@@ -32,7 +32,6 @@ Today's MC: [Matt Black](https://x.com/matthewjablack)
 ## Network Data
 - [Mempool](https://mempool.space/graphs/mempool#1m), [hashrate and difficulty](https://mempool.space/graphs/mining/hashrate-difficulty#1y), [block fee rates](https://mempool.space/graphs/mining/block-fee-rates#1m)
 - [TxStreet](https://txstreet.com/v/btc): watch transactions board the next block live
-- [Compact block reconstruction degradation, Sept to Oct 2026](https://bnoc.xyz/t/compact-block-reconstruction-degradation-between-september-october-2026/198)
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
@@ -84,6 +83,7 @@ Today's MC: [Matt Black](https://x.com/matthewjablack)
 - [Binance $6.36B hack attributed to North Korea](https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history) ([Wikipedia](https://en.wikipedia.org/wiki/2026_Binance_hack))
 - [Mercado Bitcoin halts withdrawals after $40M drained](https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains)
 - [Liquid Network exploit: 4,000 unbacked L-BTC](https://blog.blockstream.com/liquid-network-security-incident-assessment/) ([rangeproof explainer](https://drop.amboss.tech/liquid-rangeproof-explainer.html))
+    - [Fully backed again on Nov 3](https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387): the attacker returned about 3,400 BTC and Blockstream covered the rest, but direct peg-outs are still paused
 - [BTCPay Server hot wallets drained on 2.4.1 and earlier](https://blog.btcpayserver.org/btcpay-server-security-incident-2-4-1-and-earlier/): sweep funds, move to a fresh server
 - [Coldcard Mk2/Mk3 entropy flaw drains wallets](https://www.halborn.com/blog/post/explained-the-coldcard-hack-july-2026) ([Block's write-up](https://engineering.block.xyz/blog/predictable-rng-fallback-and-32-bit-reseed-in-coldcard-firmware))
 - [Air-gapped Bitcoin Core as your hardware wallet](https://pesvi.xyz/catal%C3%A0/posts/bitcoincore_airgapped_device/): one audited codebase versus more room for human error
@@ -146,7 +146,6 @@ Today's MC: [Matt Black](https://x.com/matthewjablack)
 
 ## Ecosystem
 - [Peter Todd revives tail emission](https://livecoins.com.br/emissao-de-cauda-pode-ser-a-proxima-grande-polemica-do-bitcoin-entenda-a-proposta/)
-- [Alkanes: smart contracts on Bitcoin without a soft fork](https://decrypt.co/327721/bitcoin-alkanes-next-big-btc-innovation-after-ordinals-and-runes) ([61% of transactions for 90 days](https://bitcoinmagazine.com/news/alkanes-drove-61-of-bitcoin-transactions-for-90-days-subfrost-data-shows))
 - [OpenSats grants for Bitcoin development](https://opensats.org/blog/supporting-the-foundations-of-bitcoin-development)
 
 ## Just for fun
