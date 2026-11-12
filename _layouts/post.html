@@ -28,3 +28,11 @@ layout: default
     <div class="Post-content">{{ content }}</div>
   </div>
 </section>
+
+<script>
+  document.querySelectorAll('.Post-content a[href]').forEach(function (a) {
+    if (a.getAttribute('href').charAt(0) === '#') return;
+    a.target = '_blank';
+    a.rel = 'noopener';
+  });
+</script>
