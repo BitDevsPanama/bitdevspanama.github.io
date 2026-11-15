@@ -157,3 +157,6 @@ Today's MC: [Matt Black](https://x.com/matthewjablack)
 - [A .bitcoin top-level domain](https://x.com/wiz/status/2108002376372347249)
 - [NDS-Signer: SeedSigner on a Nintendo DSi](https://github.com/ndssigner/nds-signer) ([Stacker News](https://stacker.news/items/1592478))
 - [Steal My Bitcoin honeypot](https://stealmybitcoin.com/) ([winning exploit chain](https://github.com/KillaBoi/StealMyBitcoin-PoC))
+
+## From the discussion
+- Diceware seeds: roll dice to pick your first 23 words with BitBox's [how-to](https://bitbox.swiss/bitbox02/BitBox_Diceware_HowTo.pdf) and [lookup table](https://bitbox.swiss/bitbox02/BitBox_Diceware_LookupTable.pdf), then compute a valid 24th checksum word on a BitBox or offline with this [last word finder](https://mblack.io/assets/tools/last-word-finder.html)
