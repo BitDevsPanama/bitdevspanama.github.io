@@ -15,7 +15,7 @@ Plaza. Thank you to Towerbank for the event space and the pizza.
 seating. Space is limited.
 
 We start at 5:00 and the room closes at **7:30 sharp** (building security), so
-please arrive on time. Afterwards we head to TODO for beers and the rest of the
+please arrive on time. Afterwards we head to Julian's Rooftop for beers and the rest of the
 discussion. Come for that even if you can't make the main event.
 
 Send your topic proposals to: <hello@bitdevspanama.org>,
@@ -159,4 +159,4 @@ Today's MC: [Matt Black](https://x.com/matthewjablack)
 - [Steal My Bitcoin honeypot](https://stealmybitcoin.com/) ([winning exploit chain](https://github.com/KillaBoi/StealMyBitcoin-PoC))
 
 ## From the discussion
-- Diceware seeds: roll dice to pick your first 23 words with BitBox's [how-to](https://bitbox.swiss/bitbox02/BitBox_Diceware_HowTo.pdf) and [lookup table](https://bitbox.swiss/bitbox02/BitBox_Diceware_LookupTable.pdf), then compute a valid 24th checksum word on a BitBox or offline with this [last word finder](https://mblack.io/assets/tools/last-word-finder.html)
+- Diceware seeds: roll dice to pick your first 23 words with BitBox's [how-to](https://bitbox.swiss/bitbox02/BitBox_Diceware_HowTo.pdf) and [lookup table](https://bitbox.swiss/bitbox02/BitBox_Diceware_LookupTable.pdf), then compute a valid 24th checksum word on a BitBox or offline with this [last word finder](https://mblack.io/assets/tools/last-word-finder.html) ([source code](https://github.com/matthewjablack/mblack.io/blob/master/assets/tools/last-word-finder.html)). It is a single HTML file: read the code and verify it yourself, then run it on an offline machine. Don't trust, verify
