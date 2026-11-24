@@ -3,7 +3,7 @@ layout: post
 type: socratic
 title: "Panama Socratic 002"
 permalink: /panama-socratic-002
-date_display: "January 2027 (date TBD)"
+date_display: "TBD Jan 2027"
 ---
 <!--- TODO: once the date is set, rename this file to the real date, drop date_display, add the luma: link and fill in the time below --->
 
